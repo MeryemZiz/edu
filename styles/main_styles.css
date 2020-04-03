@@ -690,6 +690,7 @@ section
 	font-size: 72px;
 	font-weight: 400;
 	color: #FFFFFF;
+	box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
 }
 .hero_slide_content h1 span
 {
