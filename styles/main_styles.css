@@ -857,7 +857,8 @@ section
 .section_title h1
 {
 	display: block;
-	color: #1a1a1a;
+	color: #C88E00;
+
 	font-weight: 500;
 	padding-top: 24px;
 }
@@ -909,7 +910,7 @@ section
 
 .popular
 {
-
+padding-bottom: 0;
 }
 .course_boxes
 {
@@ -1135,6 +1136,8 @@ input:last-of-type
 
 .services
 {
+	
+	background: #1a1a1a;
 	padding-bottom: 76px;
 }
 .services_row
@@ -1150,8 +1153,12 @@ input:last-of-type
 	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 	font-weight: 500;
-	color: #1a1a1a;
+	color: #C88E00;
 	margin-bottom: 13px;
+}
+.service_item h1{
+	color: #C88E00;
+
 }
 .service_item p
 {
