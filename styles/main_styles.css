@@ -858,7 +858,7 @@ section
 {
 	display: block;
 	color: #C88E00;
-
+    text-transform: uppercase;
 	font-weight: 500;
 	padding-top: 24px;
 }
@@ -1133,7 +1133,13 @@ input:last-of-type
 /*********************************
 12. Services
 *********************************/
-
+.row p {
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 1em;
+	font-weight: bolder;
+}
 .services
 {
 	
